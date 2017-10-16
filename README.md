@@ -1,2 +1,2 @@
-This repository will show my experience and relevant files I <br>
-created and practiced from the very beginning I learn Flask.
+This repository will show my journey learning Flask. <br>
+I will post relevant files and practices during the process. <br>
